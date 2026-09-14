@@ -1,4 +1,4 @@
-# Pymavlink Harness for ArduPilot-based FC to Companion Computer 2-way Communication
+# Pymavlink Harness for ArduPilot-based FC to Companion Computer 2-Way Communication
 
 A small, growing set of Python scripts for controlling an ArduPilot vehicle over MAVLink, built and tested against Mission Planner SITL, aimed at eventually running on a companion computer for real autonomous missions.
 
